@@ -1,0 +1,38 @@
+#chinh img{
+    max-width: 100%;
+}
+#chinh h2{
+    margin: 5px 0 5px 0;
+}
+#chinh p{
+    margin-top: 5px;
+    color: grey;
+}
+#body{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.phu{
+    max-width: 250px;
+}
+.phu img{
+    max-width: 100%;
+}
+#duoi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.phu h4{
+    margin: 0;
+}
+#icon{
+    max-width: 100px;
+    float: left;
+    margin-left: 113px;
+}
+#icon p{
+    border-bottom: 1px solid black;
+    margin: 8px 0;
+}
